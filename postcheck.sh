@@ -4,4 +4,6 @@ cat /etc/os-release
 echo "--------kernal version
 uname -r
 echo "------------disk informatin----------
-lsblk
+lsbl
+echo "--------------memory info----------
+free -m
