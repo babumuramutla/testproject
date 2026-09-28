@@ -1,3 +1,4 @@
 !#/bin/bash
 echo "-------------os version-----------------"
-uname -a 
+uname -a
+df -h 
